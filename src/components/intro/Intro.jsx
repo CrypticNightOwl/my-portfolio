@@ -18,7 +18,7 @@ function intro() {
                         </div>
                     </div>
                     <p className="i-desc">
-                        I design and develop services for clients of all sizes,specializing in responsive and modern websites across all types of screen sizes.
+                        I design and develop services for clients of all sizes, specializing in responsive and modern websites across all types of screen sizes.
                     </p>
                 </div>
                 <svg
