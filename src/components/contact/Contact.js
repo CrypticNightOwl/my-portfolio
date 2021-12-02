@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 import "./Contact.css";
 import Phone from "../../img/phone.png";
 import Email from "../../img/email.png";
@@ -16,11 +16,11 @@ const Contact = () => {
     const handleSubmit = (e) => {
         e.preventDefault();
         emailjs.sendForm(
-                "service_49lf4hv",
-                "template_1z8rxql",
-                formRef.current,
-                "user_UY5JKwUW2xG3WjtNuqj1n"
-            )
+            "service_49lf4hv",
+            "template_1z8rxql",
+            formRef.current,
+            "user_UY5JKwUW2xG3WjtNuqj1n"
+        )
             .then(
                 (result) => {
                     console.log(result.text);

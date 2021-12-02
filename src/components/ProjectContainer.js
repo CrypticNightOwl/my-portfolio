@@ -1,8 +1,8 @@
-import React from 'react'
-import uniqid from 'uniqid'
-import { FaGithub } from 'react-icons/fa';
-import { FaLayerGroup } from 'react-icons/fa';
-import './ProjectContainer.css'
+import React from "react";
+import uniqid from "uniqid";
+import { FaGithub } from "react-icons/fa";
+import { FaLayerGroup } from "react-icons/fa";
+import "./ProjectContainer.css";
 
 const ProjectContainer = ({ project }) => (
     <div className='project'>

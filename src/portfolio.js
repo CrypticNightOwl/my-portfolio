@@ -2,8 +2,8 @@ const projects = [
     {
         name: 'Nucamp Website With BootStrap',
         description:
-            'In this website you can see how using a bootstrap library can give you a simple and clean looking website. That is responsive to different screen sizes.',
-        stack: ['HTML', 'CSS', 'JavaScrip', 'Bootsrap' ],
+            'On this project, we took all the basic HTML, CSS, and Javascript and implemented Bootstrap. Bootstrap is a CSS framework that allows us to develop responsive websites using the mobile-first method. This method ensures that your website will work responsively on any screen size such as an iPhone or a desktop. This makes the user experience enjoyable on any device and every time. ',
+        stack: ['HTML', 'CSS', 'JavaScrip', 'Bootsrap'],
         sourceCode: 'https://github.com/CrypticNightOwl/nucamp',
         livePreview: 'https://crypticnightowl.github.io/nucamp/',
     },
@@ -38,4 +38,4 @@ const skills = [
 
 
 
-export {projects, skills,}
+export { projects, skills, }

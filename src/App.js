@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 import { useContext } from "react";
 import About from "./components/about/About";
 import Projects from "./components/Projects";

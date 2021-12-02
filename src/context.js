@@ -1,5 +1,4 @@
-
-import React from 'react'
+import React from "react";
 import { createContext, useReducer } from "react";
 
 export const ThemeContext = createContext();
