@@ -13,7 +13,7 @@ const projects = [
             'This project is still under construction. Please feel free to take a look at the source code. While this is still being developed.',
         stack: ['HTML', 'CSS', 'JavaScript', 'React'],
         sourceCode: 'https://github.com/CrypticNightOwl/nucampsiteReact',
-        livePreview: 'https://github.com',
+        livePreview: 'https://github.com/CrypticNightOwl',
     },
     {
         name: 'Nucamp React-Native App',
@@ -21,7 +21,7 @@ const projects = [
             'This project is still under construction. Please feel free to take a look at the source code. While this is still being developed.',
         stack: ['JavaScript', 'React-Native', 'HTML', 'CSS'],
         sourceCode: 'https://github.com/CrypticNightOwl/NucampApp-React-Native',
-        livePreview: 'https://github.com',
+        livePreview: 'https://github.com/CrypticNightOwl',
     },
 ]
 
