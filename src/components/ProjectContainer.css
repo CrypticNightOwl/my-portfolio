@@ -22,7 +22,7 @@
 }
 
 .project__stack-item {
-    margin: 0.5em;
+    margin: 1em;
     font-weight: 500;
     font-size: 0.8rem;
     color: #7413f3;
@@ -30,4 +30,6 @@
 
 .project .link--icon {
     margin-left: 0.5em;
+    color: #7413f3;
+    size: 2rem;
 }

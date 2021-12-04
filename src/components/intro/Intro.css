@@ -28,7 +28,7 @@
 }
 
 .i-name {
-    font-size: 50px;
+    font-size: 45px;
 }
 
 .i-title {
@@ -71,7 +71,7 @@
     height: 30px;
     position: absolute;
     bottom: 20px;
-  }
+}
 
 .i-img {
     width: 100%;
