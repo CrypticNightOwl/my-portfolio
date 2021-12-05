@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://crypticnightowl.github.io/portfolio/",
+  "homepage": " . ",
   "dependencies": {
     "-": "^0.0.1",
     "cra-template": "1.1.2",
