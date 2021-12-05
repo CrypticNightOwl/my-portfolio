@@ -33,7 +33,6 @@ const skills = [
     'Redux',
     'SASS',
     'React-Native',
-    'Expo',
     'Git',
 ]
 
