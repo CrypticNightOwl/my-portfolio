@@ -12,7 +12,7 @@ function intro() {
                     <div className="i-title">
                         <div className="i-title-wrapper">
                             <div className="i-title-item">Front end Developer</div>
-                            <div className="i-title-item">Bootstarp</div>
+                            <div className="i-title-item">Bootstrap</div>
                             <div className="i-title-item">React</div>
                             <div className="i-title-item">React Native</div>
                             <div className="i-title-item">HTML5 CSS JavaScript</div>
