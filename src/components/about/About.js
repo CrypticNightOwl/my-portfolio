@@ -1,7 +1,7 @@
 import "./About.css";
 import Award from "../../img/bootstarp.png";
 import Award3 from "../../img/React.png";
-import Award2 from "../../img/award.jpg";
+import Award2 from "../../img/certificate.jpg";
 import React from "react";
 
 const About = () => {
