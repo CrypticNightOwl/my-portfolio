@@ -29,7 +29,7 @@ const About = () => {
                 <div className="a-award">
                     <img src={Award} alt="" className="a-award-img" />
                     <div className="a-award-texts">
-                        <h4 className="a-award-title">Front-End Web and Mobile Development: Bootstrap Jul-Dec 2021</h4>
+                        <h5 className="a-award-title">Front-End Web and Mobile Development: Bootstrap Jul-Dec 2021</h5>
                         <p className="a-award-desc">
                             Full stack web and Mobile App. 5 Week Bootstarp Completion
                         </p>
@@ -38,7 +38,7 @@ const About = () => {
                 <div className="a-award">
                     <img src={Award3} alt="" className="a-award-img" />
                     <div className="a-award-texts">
-                        <h4 className="a-award-title">Front-End Web and Mobile Development: React Jul-Dec 2021</h4>
+                        <h5 className="a-award-title">Front-End Web and Mobile Development: React Jul-Dec 2021</h5>
                         <p className="a-award-desc">
                             Full stack web and Mobile App. 5 Week React Completion
                         </p>
@@ -47,7 +47,7 @@ const About = () => {
                 <div className="a-award">
                     <img src={Award4} alt="" className="a-award-img" />
                     <div className="a-award-texts">
-                        <h4 className="a-award-title">Front-End Web and Mobile Development: React-Native Jul-Dec 2021</h4>
+                        <h5 className="a-award-title">Front-End Web and Mobile Development: React-Native Jul-Dec 2021</h5>
                         <p className="a-award-desc">
                             Full stack web and Mobile App. 4 Week React-Native Completion
                         </p>
