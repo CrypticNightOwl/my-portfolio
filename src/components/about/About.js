@@ -2,6 +2,7 @@ import "./About.css";
 import Award from "../../img/bootstarp.png";
 import Award3 from "../../img/React.png";
 import Award2 from "../../img/certificate.jpg";
+import Award4 from "../../img/React_Native.png";
 import React from "react";
 
 const About = () => {
@@ -28,7 +29,7 @@ const About = () => {
                 <div className="a-award">
                     <img src={Award} alt="" className="a-award-img" />
                     <div className="a-award-texts">
-                        <h4 className="a-award-title">Front-End Web Development:Bootstrap 2021</h4>
+                        <h4 className="a-award-title">Front-End Web and Mobile Development: Bootstrap Jul-Dec 2021</h4>
                         <p className="a-award-desc">
                             Full stack web and Mobile App. 5 Week Bootstarp Completion
                         </p>
@@ -37,9 +38,18 @@ const About = () => {
                 <div className="a-award">
                     <img src={Award3} alt="" className="a-award-img" />
                     <div className="a-award-texts">
-                        <h4 className="a-award-title">Front-End Web Development:React 2021</h4>
+                        <h4 className="a-award-title">Front-End Web and Mobile Development: React Jul-Dec 2021</h4>
                         <p className="a-award-desc">
                             Full stack web and Mobile App. 5 Week React Completion
+                        </p>
+                    </div>
+                </div>
+                <div className="a-award">
+                    <img src={Award4} alt="" className="a-award-img" />
+                    <div className="a-award-texts">
+                        <h4 className="a-award-title">Front-End Web and Mobile Development: React-Native Jul-Dec 2021</h4>
+                        <p className="a-award-desc">
+                            Full stack web and Mobile App. 4 Week React-Native Completion
                         </p>
                     </div>
                 </div>
