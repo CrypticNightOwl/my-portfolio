@@ -2,6 +2,7 @@
     display: flex;
     justify-content: center;
     color: #7413f3;
+    margin-top: 30px;
 }
 
 .projects__grid {
